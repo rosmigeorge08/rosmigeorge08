@@ -74,7 +74,7 @@ html {
 }
 
 .area2{
-	background: linear-gradient(to bottom left,#8cff66, #66ff66, #66ff8c, #66ffb3);
+	background: linear-gradient(to top right,#66ff66,#8cff66, #b3ff66,#d9ff66);
 	width: 100%;
 	height: 100vh;
 }
